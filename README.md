@@ -1,13 +1,13 @@
 # *Curso Técnico:*
 
 >***Curso Técnico:*** 
->Desenvolvimento de Sistemas;
+>Desenvolvimento de Sistemas
 >
 >***Turma:***
->I1HN;
+>I1HN
 >
 >***Escola e cidade:***
->Sesi/Nova Odessa.
+>Sesi/Nova Odessa
 
 # *Nome e Email:*
 #### Nome: João Paulo Pereira Rezende
