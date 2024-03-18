@@ -1,13 +1,9 @@
-# Nome
-João Paulo Pereira Rezende
+# Nome e Email:
+### Nome: João Paulo Pereira Rezende
 
 ####  Email: joaopp.rezende@gmail.com
 
-# Curso Técnico
-
-###### Curso do SENAI;
-###### Turma;
-###### Escola e cidade:
+# Curso Técnico:
 
 ***Curso Técnico:*** 
 Desenvolvimento de Sistemas;
