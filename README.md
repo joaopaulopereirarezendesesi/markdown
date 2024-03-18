@@ -5,8 +5,13 @@ João Paulo Pereira Rezende
 
 # Curso Técnico
 
-##### Curso do SENAI;
-##### Turma;
-##### Escola e cidade:
+###### Curso do SENAI;
+###### Turma;
+###### Escola e cidade:
 
-***Curso Técnico:*** Desenvolvimento de Sistemas - turma I1HN - Sesi/Nova Odessa
+***Curso Técnico:*** 
+Desenvolvimento de Sistemas;
+***Turma:***
+Turma I1HN;
+***Escola e cidade***
+Sesi/Nova Odessa.
