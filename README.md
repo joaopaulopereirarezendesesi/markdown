@@ -9,4 +9,4 @@ João Paulo Pereira Rezende
 ##### Turma;
 ##### Escola e cidade:
 
-Curso Técnico: Desenvolvimento de Sistemas - turma I1HN - Sesi/Nova Odessa
+***Curso Técnico***: Desenvolvimento de Sistemas - turma I1HN - Sesi/Nova Odessa
