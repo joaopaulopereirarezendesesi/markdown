@@ -1,15 +1,14 @@
 # Nome e Email:
 #### Nome: João Paulo Pereira Rezende
-
 ####  Email: joaopp.rezende@gmail.com
 
 # Curso Técnico:
 
-***Curso Técnico:*** 
-Desenvolvimento de Sistemas;
+>***Curso Técnico:*** 
+>Desenvolvimento de Sistemas;
 
-***Turma:***
-Turma I1HN;
+>***Turma:***
+>Turma I1HN;
 
-***Escola e cidade***
-Sesi/Nova Odessa.
+>***Escola e cidade***
+>Sesi/Nova Odessa.
